@@ -33,7 +33,7 @@ pip install alpaca-trade-api
 ```python 
 pip install python-dotenv
 ```
-### 3. JSON - This module allows us to load and read data from the source (e.g. Alpaca, NASDAQ) in a human understandable format. It comes standard with the Python enviroment installation so there should be no need to install separately. Just in case, if you have to install, the instructionsa are:
+### 3. JSON - This module allows us to load and read data from the source (e.g. Alpaca, NASDAQ) in a human understandable format. It comes standard with the Python enviroment installation so there should be no need to install separately. Just in case, if you have to install, the instructions are:
 #### 3.1. Open the GitBash terminal
 #### 3.2 Type the following command and press Enter:
 ```python 
