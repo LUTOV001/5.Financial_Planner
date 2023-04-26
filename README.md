@@ -65,7 +65,7 @@ jupyter lab --ContentsManager.allow_hidden=True
 **Note** *This will avoid your keys being loaded to GitHub, as per the gitignore file settings*
 ### 5.Reset the Kernel and
 ### 6.Run the steps in sequence and verify the results as per the comments, including outputs on the screen as well as file images saved  (e.g. plot images in the Sol_Images folder as .png files)
-**Note** *When running the Monte Carlo simulation steps (30 year and 10 year scenarions) please allow time for the 500 simulations to complete before running the next step*
+**Note** *When running the Monte Carlo simulation steps (30 year and 10 year scenarios) please allow time for the 500 simulations to complete before running the next step*
 ####
 
 ## **Credits**
